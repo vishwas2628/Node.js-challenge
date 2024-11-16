@@ -102,31 +102,11 @@ Here’s a brief overview of the project structure:
 
 - **Test the Application**: 
   Visit `http://localhost:8080` in your web browser to interact with the app.
-
----
-
-## Screenshots
-
-#### 1. Home Page (List of Events)
-![Home Page Screenshot](./images/home.png)
-
-#### 2. Create Event Form
-![Create Event Screenshot](./images/create-event.png)
-
-#### 3. View Single Event
-![View Event Screenshot](./images/view-event.png)
-
 ---
 
 ## Contribution
 
 Feel free to fork the repository, clone it, and create a pull request if you have suggestions or improvements.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
